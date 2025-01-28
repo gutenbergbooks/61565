@@ -19,7 +19,6 @@ Author: Charles Baudelaire
 Commentator: Guillaume Apollinaire
 
 Release Date: March 5, 2020 [EBook #61565]
-[Last updated: October 11, 2020]
 
 Language: French
 
@@ -929,7 +928,7 @@ Que les soleils marins teignaient de mille feux,
 Et que leurs grands piliers, droits et majestueux,
 Rendaient pareils, le soir, aux grottes basaltiques.
 
-Les houles, en roulant les images des cieux,
+Les houles, en roulant les images des deux,
 Mêlaient d'une façon solennelle et mystique
 Les tout-puissants accords de leur riche musique
 Aux couleurs du couchant reflété par mes yeux.
